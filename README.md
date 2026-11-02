@@ -7,6 +7,16 @@
 - ## how the game works
 - you can pick up and drop items by clicking them
 - you can place items on the scale
-- diffrent items have different  weights
+- diffrent items have different weights
+- the scale will show you which is item is heavier or if they are equal weight
+- if you want to weigh multiple items at once drop one item onto the other and then pick them both up
+- there is a reset button that will ungroup any item on the desk
+- ### the four items so far are:
+- feather
+- rock
+- iron bar
+- gold bar
+
+
 
 
