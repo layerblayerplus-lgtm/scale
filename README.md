@@ -11,6 +11,7 @@
 - the scale will show you which is item is heavier or if they are equal weight
 - if you want to weigh multiple items at once drop one item onto the other and then pick them both up
 - there is a reset button that will ungroup any item on the desk
+- I started working on a counter for the second update for the game
 - ### the four items so far are:
 - feather
 - rock
