@@ -20,6 +20,7 @@
 - when you think the weight is right you click the button on the counter to lock it in
 - you also have a sanity level the more times you mess up the weight you go more insane
 - also there are ghosts
+- I also added audio cues and music
 - ### the four items so far are:
 - feather
 - rock
